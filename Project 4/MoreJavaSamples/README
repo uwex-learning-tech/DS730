@@ -1,3 +1,0 @@
-The output.txt was created using the following command:
-
-java GlobalRunner inputFolder outputFolder 1000
